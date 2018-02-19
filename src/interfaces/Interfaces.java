@@ -17,6 +17,7 @@ public class Interfaces {
     public static void main(String[] args) {
     int a =8;
     int c = 6;
+    int b = 7;
     }
     
 }
