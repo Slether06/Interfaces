@@ -18,7 +18,7 @@ public class Interfaces {
     int a =8;
     int c = 6;
     int b = 7;
-    double e = 1,77
+    double e = 1,77;
     }
     
 }
